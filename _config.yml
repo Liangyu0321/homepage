@@ -1,11 +1,10 @@
 # Site settings
-title:       Avi Singh
-email:       avisingh599@gmail.com
-author:      Avi Singh
+title:       Liangyu Fan Chiang
+email:       liangyu.cs07g@nctu.edu.tw
+author:      Liangyu
 description: "Homepage and blog"
 baseurl:     ""
-url:         "https://avisingh599.github.io"
-#url:         "http://0.0.0.0:4000"
+url:         "https://liangyu0321.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -21,15 +20,15 @@ ajaxify_contact_form: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: avisingh599
+disqus_shortname:
 
 # Social icons
-github_username: avisingh599
+github_username: liangyu0321
 bitbucket_username:
 stackoverflow_id:
-twitter_username: avisingh599
-google_plus_id: +avisingh599
-linkedin_username: avisingh599
+twitter_username:
+google_plus_id: 
+linkedin_username:
 angellist_username:
 medium_id:
 bitcoin_url:
